@@ -1,4 +1,4 @@
-**Webs-projects-[ERC-721]-[molly nft]**
+**Web3-projects-[ERC-721]-[molly nft]**
 
 Full {Erc-20} Smart Contract For Your {molly}
     [N.B]
